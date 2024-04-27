@@ -1,6 +1,6 @@
 <h3>Capstone Projects in Data Science and AI/ML</h3>
 
-This repository is a **compilation of over 25 capstone projects**, each a stepping stone in my journey to becoming proficient in **Data Science and AI/ML**. The projects range from fundamental machine learning algorithms to advanced neural networks and generative models, showcasing a hands-on approach to learning and applying AI/ML concepts.
+This repository is a **compilation of over 30 capstone projects**, each a stepping stone in my journey to becoming proficient in **Data Science and AI/ML**. The projects range from fundamental machine learning algorithms to advanced neural networks and generative models, showcasing a hands-on approach to learning and applying AI/ML concepts.
 
 These projects were developed as a part of my learning and assessments while pursuing courses on Udemy and Coursera, providing hands-on experience with a wide range of data science concepts and techniques.
 
